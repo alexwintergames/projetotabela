@@ -1,0 +1,48 @@
+body{
+    background-color: #33B3A9;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+table{
+    font-size: 35px;
+}
+legend{
+    background-color: black;
+    color:white;
+}
+fieldset{
+    background-color: #1A5F5B;
+    border: solid 3px black;
+    font-size: 25px;
+    margin-top: 50px;
+    color: white;
+}
+select{
+    padding:1.5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+}
+button{
+    font-size: 20px;
+    border:none;
+    color:white;
+    padding:10px;
+    padding-left:25px;
+    padding-right:25px;
+}
+#cancel{
+    background-color: red;
+}
+#save{
+    background-color: rgb(115, 160, 49);
+}
+input{
+    padding:5px;
+}
+select{
+    padding:5px;
+    width:185px;
+}
